@@ -5,7 +5,7 @@
 Open Link
 https://nameless-refuge-29894.herokuapp.com/
 
-## Here us a Snapshot of Initial Front page
+## Here is a Snapshot of Initial Front page
 
 ![](https://github.com/tejpoudel/FriendFinder/blob/master/images/front.png)
 
