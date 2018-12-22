@@ -7,13 +7,14 @@ https://nameless-refuge-29894.herokuapp.com/
 
 ## Here us a Snapshot of Initial Front page
 
-![](https://github.com/tejpoudel/amazon-like-storefront/blob/master/result.png)
+![](https://github.com/tejpoudel/FriendFinder/blob/master/images/front.png)
 
 ## This is the page for survey
+![](https://github.com/tejpoudel/FriendFinder/blob/master/images/survey.png)
 
 ## The result of match
 
-![](https://github.com/tejpoudel/amazon-like-storefront/blob/master/database.png)
+![](https://github.com/tejpoudel/FriendFinder/blob/master/images/result.png)
 
 <br>
 
